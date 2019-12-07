@@ -1,0 +1,7 @@
+C:\Users\37729\source\repos\robot_stack\robot_stack\bin\Debug\robot_stack.exe.config
+C:\Users\37729\source\repos\robot_stack\robot_stack\bin\Debug\robot_stack.exe
+C:\Users\37729\source\repos\robot_stack\robot_stack\bin\Debug\robot_stack.pdb
+C:\Users\37729\source\repos\robot_stack\robot_stack\obj\Debug\robot_stack.csprojAssemblyReference.cache
+C:\Users\37729\source\repos\robot_stack\robot_stack\obj\Debug\robot_stack.csproj.CoreCompileInputs.cache
+C:\Users\37729\source\repos\robot_stack\robot_stack\obj\Debug\robot_stack.exe
+C:\Users\37729\source\repos\robot_stack\robot_stack\obj\Debug\robot_stack.pdb
